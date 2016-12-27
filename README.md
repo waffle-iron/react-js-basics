@@ -1,2 +1,6 @@
-# react-js-basics
+react-js-basics
+===============
+
+```
 React JS learning
+```
