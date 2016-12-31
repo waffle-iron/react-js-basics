@@ -1,3 +1,0 @@
-js: 
-  lint: eslint
-  config: .eslintrc.json
