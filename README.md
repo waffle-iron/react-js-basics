@@ -2,5 +2,5 @@ react-js-basics
 ===============
 
 ```
-React JS learning
+React JS Learning
 ```
