@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/maria-robobug/react-js-basics.png?label=ready&title=Ready)](https://waffle.io/maria-robobug/react-js-basics)
 react-js-basics
 ===============
 
