@@ -37,7 +37,7 @@ export class Home extends React.Component {
 				<button onClick={this.props.greet} className="btn btn-primary">Greet</button>
 				
 				<hr/>
-				<button onClick={(newName) => this.onChangeLink(newName)} className="btn btn-primary">Change Header Link</button>
+				<button onClick={(newName) => this.onChangeLink(newName)} className="btn btn-primary">Change Header</button>
       </div>
 		);
 	}
